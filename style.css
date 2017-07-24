@@ -1,0 +1,36 @@
+#header {
+    
+    display: inline-block;
+}
+
+.headerText1 {
+    float: right;
+    padding: 30px;
+}
+
+.headerText2 {
+    float : left;
+    padding: 30px;
+}
+
+#informationsBox {
+    
+}
+
+.box {
+    display: inline;
+}
+
+.textBox {
+    float: left;
+}
+
+.infoInput {
+    float: right;
+}
+
+
+
+table, th, td {
+    border: 1px solid black;
+}
